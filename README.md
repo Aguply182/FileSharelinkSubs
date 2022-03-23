@@ -20,15 +20,10 @@
 #### Deploy on Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://risman.vercel.app/file-deploy.html)</br>
 
-**Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
-<a href="https://youtu.be/O2tieQgzYZg">
-  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
-</a><br>
-
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/mrismanaziz/File-Sharing-Man
-cd File-Sharing-Man
+git clone https://github.com/FileSharelinkSubs
+cd FileSharelinkSubs
 pip3 install -r requirements.txt
 cp sample_config.env config.env
 # edit config.env Anda dan isi VARS menggunakan nano config.env CTRL + S untuk menyimpan VARS Anda, 
@@ -68,9 +63,9 @@ bash start
 
 ### Extra Variables
 
-* `CUSTOM_CAPTION` letakkan teks teks Kustom Anda jika Anda ingin Mengatur Teks Kustom, Anda dapat menggunakan HTML dan <a href='https://github.com/mrismanaziz/File-Sharing-Man/blob/main/README.md#custom_caption'>fillings</a> untuk pemformatan (hanya untuk dokumen)
+* `CUSTOM_CAPTION` letakkan teks teks Kustom Anda jika Anda ingin Mengatur Teks Kustom, Anda dapat menggunakan HTML dan <a href='https://github.com/Agusply182/FileSharelinkSubs/blob/main/README.md#custom_caption'>fillings</a> untuk pemformatan (hanya untuk dokumen)
 * `DISABLE_CHANNEL_BUTTON` Masukan True untuk Nonaktifkan Tombol Berbagi Saluran, Default jika False
-* `FORCE_SUB_CHANNEL2` Masukkan [-100idch2] Atau isi '0'  or .env via vps edit manual
+* `FORCE_SUB_CHANNEL2` Masukkan [-100idch2] Atau isi '0' manual vars
 
 ### Fillings
 #### START_MESSAGE | FORCE_SUB_MESSAGE
