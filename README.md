@@ -70,6 +70,7 @@ bash start
 
 * `CUSTOM_CAPTION` letakkan teks teks Kustom Anda jika Anda ingin Mengatur Teks Kustom, Anda dapat menggunakan HTML dan <a href='https://github.com/mrismanaziz/File-Sharing-Man/blob/main/README.md#custom_caption'>fillings</a> untuk pemformatan (hanya untuk dokumen)
 * `DISABLE_CHANNEL_BUTTON` Masukan True untuk Nonaktifkan Tombol Berbagi Saluran, Default jika False
+* `FORCE_SUB_CHANNEL2` Masukkan [-100idch2] Atau isi '0'  or .env via vps edit manual
 
 ### Fillings
 #### START_MESSAGE | FORCE_SUB_MESSAGE
@@ -99,7 +100,7 @@ bash start
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[FILE-SHARING-BOT](https://github.com/Agusply182//) is Free Software: You can use, study share and improve it at your
+[FILE-SHARING-BOT](https://github.com/Agusply182/FileSharelinkSubs/) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
