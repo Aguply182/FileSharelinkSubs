@@ -18,7 +18,7 @@
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Aguply182/FileSharelinkSubs/network/members)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 #### Deploy in your VPS
 ````bash
