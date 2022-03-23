@@ -59,13 +59,14 @@ bash start
 * `START_MESSAGE` Opsional: Pesan /start memulai awalan ke bot, Gunakan <a href='https://github.com/mrismanaziz/File-Sharing-Man/blob/main/README.md#start_message'>format</a> parsemode HTML 
 * `FORCE_SUB_MESSAGE` Opsional: Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML
 * `FORCE_SUB_CHANNEL` Masukan ID dari Channel Untuk Wajib Subscribenya
+* `FORCE_SUB_CHANNEL2` Masukan ID dari Channel Untuk Wajib Subscribenya
 * `FORCE_SUB_GROUP` Masukan ID dari Group Untuk Wajib Subscribenya
 
 ### Extra Variables
 
 * `CUSTOM_CAPTION` letakkan teks teks Kustom Anda jika Anda ingin Mengatur Teks Kustom, Anda dapat menggunakan HTML dan <a href='https://github.com/Agusply182/FileSharelinkSubs/blob/main/README.md#custom_caption'>fillings</a> untuk pemformatan (hanya untuk dokumen)
 * `DISABLE_CHANNEL_BUTTON` Masukan True untuk Nonaktifkan Tombol Berbagi Saluran, Default jika False
-* `FORCE_SUB_CHANNEL2` Masukkan [-100idch2] Atau isi '0' manual vars
+* `FORCE_SUB_CHANNEL2` Masukkan [-100idch2] Atau isi '0' vars
 
 ### Fillings
 #### START_MESSAGE | FORCE_SUB_MESSAGE
@@ -83,7 +84,7 @@ bash start
 
 
 ## Support   
-   VYSZ CODE
+   VYSZ YAEMIKOBOTSUPPORT AND VPS
    DEADLINE & PSYCHOPUMPUM
 
 ### Credits
@@ -103,5 +104,5 @@ published by the Free Software Foundation, either version 3 of the License, or
 
 ##
 
-   **Berikan Bintang Repo ini jika Anda menyukainya ⭐⭐⭐⭐⭐**
+   **🙏🙏🙏TERIMAH KASIH ALL SUPPORT ME 🙏🙏🙏**
 
