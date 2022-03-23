@@ -87,9 +87,8 @@ bash start
 
 
 ## Support   
-VYSZ CODE
-   
-Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
+   VYSZ CODE
+   DEADLINE & PSYCHOPUMPUM
 
 ### Credits
 
