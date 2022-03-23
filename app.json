@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/Agusply182/FileSharelinkSubs",
-  "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
+  "logo": "https://telegra.ph/file/f5a9936324beadd85f518.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
