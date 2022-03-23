@@ -1,6 +1,6 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Recode by @saputraaazka
+# t.me/YaeMikoBotSupport & t.me/pasiffandtrue
 
 import asyncio
 
