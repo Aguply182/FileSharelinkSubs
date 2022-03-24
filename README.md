@@ -27,7 +27,7 @@ cd FileSharelinkSubs
 pip3 install -r requirements.txt
 cp sample_config.env config.env
 # edit config.env Anda dan isi VARS menggunakan nano config.env CTRL + S untuk menyimpan VARS Anda, 
-# gunakan CTRL + X untuk keluar dan kembali ke direktori File-Sharing-Man
+# gunakan CTRL + X untuk keluar dan kembali ke direktori FileSharelinkSubs
 bash start
 ````
 
