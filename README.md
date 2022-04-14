@@ -22,7 +22,7 @@
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/FileSharelinkSubs
+git clone https://github.com/aguply182/FileSharelinkSubs
 cd FileSharelinkSubs
 pip3 install -r requirements.txt
 cp sample_config.env config.env
