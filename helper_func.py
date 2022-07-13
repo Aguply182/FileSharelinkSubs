@@ -1,6 +1,6 @@
 # (©)Codexbotz
 # Recode by @saputraaazka
-# t.me/YaeMikoBotSupport & t.me/pasiffandtrue
+# t.me/pasiffandtrue
 
 import asyncio
 import base64
