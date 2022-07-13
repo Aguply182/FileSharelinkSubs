@@ -83,8 +83,7 @@ bash start
 * `{previouscaption}` - Original Caption
 
 
-## Support   
-   VYSZ YAEMIKOBOTSUPPORT AND VPS
+## Support
    DEADLINE & PSYCHOPUMPUM
 
 ### Credits
