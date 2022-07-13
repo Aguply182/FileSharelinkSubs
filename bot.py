@@ -105,7 +105,7 @@ class Bot(Client):
                 f"Pastikan Bot adalah Admin di Channel DataBase, dan Periksa kembali Nilai CHANNEL_ID, Nilai Saat Ini: {CHANNEL_ID}"
             )
             self.LOGGER(__name__).info(
-                "Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan"
+                "Bot Berhenti. Gabung Group https://t.me/LsncGc untuk Bantuan"
             )
             sys.exit()
 
